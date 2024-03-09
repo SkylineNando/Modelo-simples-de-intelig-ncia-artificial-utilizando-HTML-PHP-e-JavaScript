@@ -35,3 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 ```
+
+PHP: Não precisamos do PHP neste exemplo, pois toda a lógica de processamento de dados e previsão é tratada no lado do cliente com JavaScript e TensorFlow.js.
+
+Este exemplo é muito mais complexo do que o anterior, pois envolve treinar um modelo de aprendizado de máquina com dados de exemplo e fazer previsões com base nos dados inseridos pelo usuário. Certifique-se de ter incluído a biblioteca TensorFlow.js em sua página HTML para que isso funcione corretamente.
