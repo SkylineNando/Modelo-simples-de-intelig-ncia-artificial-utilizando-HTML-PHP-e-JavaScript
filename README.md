@@ -1,0 +1,1 @@
+# Modelo-simples-de-intelig-ncia-artificial-utilizando-HTML-PHP-e-JavaScript
